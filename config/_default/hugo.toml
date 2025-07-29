@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "http://192.168.1.8"
+# baseURL = "https://ai-tracker.suba-server.org"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true

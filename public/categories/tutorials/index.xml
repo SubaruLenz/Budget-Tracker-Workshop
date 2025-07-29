@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorials on AI Budget Tracker</title>
-    <link>//localhost:1313/categories/tutorials/</link>
+    <link>http://192.168.1.8:1313/categories/tutorials/</link>
     <description>Recent content in Tutorials on AI Budget Tracker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Nguyen Trung Kien</copyright>
-    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.8:1313/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Getting Started with Budget Tracking</title>
-      <link>//localhost:1313/posts/getting-started/</link>
+      <link>http://192.168.1.8:1313/posts/getting-started/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/getting-started/</guid>
+      <guid>http://192.168.1.8:1313/posts/getting-started/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Getting Started with Budget Tracking 
     &lt;div id=&#34;getting-started-with-budget-tracking&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

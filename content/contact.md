@@ -12,8 +12,7 @@ Have questions or feedback about Budget Tracker? We'd love to hear from you.
 
 ## Get in Touch
 
-- **Email**: contact@budgettracker.com
-- **Support**: support@budgettracker.com
+- **Email**: admin@suba-server.org
 
 ## Feedback
 
