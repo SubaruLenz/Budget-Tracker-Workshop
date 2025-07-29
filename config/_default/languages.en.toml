@@ -1,0 +1,19 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "AI Budget Tracker"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "My awesome website"
+dateFormat = "2 January 2006"
+logo = "img/blowfish_logo.png"
+
+  [params.author]
+  name = "Nguyen Trung Kien"
+  image = "img/blowfish_logo.png"
+  headline = "Software Developer Intern at FCJ"
+  bio = "Software Developer Intern at FCJ"
+  links = [ ]
