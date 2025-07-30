@@ -17,7 +17,7 @@ Enterprise-grade financial management on AWS infrastructure with AI-powered insi
 {{< button href="/architecture" target="_self" >}}
 View Architecture
 {{< /button >}}
-{{< button href="https://github.com/your-repo" target="_blank" >}}
+{{< button href="https://github.com/SubaruLenz" target="_blank" >}}
 GitHub Repository
 {{< /button >}}
 {{< button href="/demo" target="_self" >}}
