@@ -1,102 +1,68 @@
-# -- Theme Options --
-# These options control how the theme functions and allow you to
-# customise the display of your website.
-#
-# Refer to the theme docs for more details about each of these parameters.
-# https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
-
 colorScheme = "blowfish"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "dark"
 autoSwitchAppearance = true
-
 enableSearch = true
 enableCodeCopy = true
-
-# mainSections = ["section1", "section2"]
-# robots = ""
+firebase = { }
+fathomAnalytics = { }
+verification = { }
+defaultBackgroundImage = "featured.svg"
+defaultFeaturedImage = "pattern.jpeg"
 
 [header]
-  layout = "basic" # valid options: basic, fixed
+layout = "basic"
 
 [footer]
- # showMenu = true
-  showCopyright = true
-  showThemeAttribution = true
-  showAppearanceSwitcher = true
-  showScrollToTop = true
+showCopyright = true
+showThemeAttribution = true
+showAppearanceSwitcher = true
+showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "featured.svg" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts"
-  cardView = true
-  cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
+layout = "background"
+homepageImage = "featured.svg"
+showRecent = false
+showRecentItems = 5
+showMoreLink = false
+showMoreLinkDest = "/posts"
+cardView = true
+cardViewScreenWidth = false
+layoutBackgroundBlur = false
 
 [article]
-  showDate = true
-  #showViews = true
-  #showLikes = true
-  showDateUpdated = false
-  showAuthor = true
-  showHero = true
-  heroStyle = "basic" # valid options: basic, big, background
-  showBreadcrumbs = true
-  showDraftLabel = true
-  showEdit = false
-  editURL = "https://github.com/SubaruLenz/Budget-Tracker-Workshop"
-  editAppendPath = true
-  seriesOpened = false
-  showHeadingAnchors = true
-  showPagination = true
-  invertPagination = false
-  showReadingTime = true
-  showTableOfContents = true
-  showTaxonomies = false 
-  showAuthorsBadges = false 
-  showWordCount = true
-  showSummary = true
-  sharingLinks = [
-    "email",
-    "facebook",
-    "github",
-    "steam",
-    "whatsapp"
-  ]
+showDate = true
+showDateUpdated = false
+showAuthor = true
+showHero = false
+heroStyle = "basic"
+showBreadcrumbs = true
+showDraftLabel = true
+showEdit = false
+editURL = "https://github.com/SubaruLenz/Budget-Tracker-Workshop"
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = true
+invertPagination = false
+showReadingTime = true
+showTableOfContents = true
+showTaxonomies = false
+showAuthorsBadges = false
+showWordCount = true
+showSummary = true
+sharingLinks = [ "email", "facebook", "github", "steam", "whatsapp" ]
 
 [list]
-  showBreadcrumbs = false
-  showSummary = true
-  showTableOfContents = false
-  showCards = false
-  groupByYear = true
-  cardView = false
-  cardViewScreenWidth = false
+showBreadcrumbs = false
+showSummary = false
+showTableOfContents = true
+showCards = true
+groupByYear = true
+cardView = true
+cardViewScreenWidth = false
 
 [sitemap]
-  excludedKinds = []
+excludedKinds = [ ]
 
 [taxonomy]
-  showTermCount = true
-
-[firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
-
-[fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
-
-[verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""
+showTermCount = true

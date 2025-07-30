@@ -43,7 +43,7 @@ Try the AWS Bedrock integration:
 3. **Configure Bedrock** access and permissions
 4. **Start tracking** your finances with AI insights
 
-{{< button href="https://github.com/your-repo" target="_blank" >}}
+{{< button href="https://github.com/SubaruLenz" target="_blank" >}}
 View Source Code
 {{< /button >}}
 
