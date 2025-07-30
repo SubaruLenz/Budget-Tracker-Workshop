@@ -2,53 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Budgeting on AI Budget Tracker</title>
-    <link>//localhost:1313/tags/budgeting/</link>
+    <link>http://192.168.1.8:1313/tags/budgeting/</link>
     <description>Recent content in Budgeting on AI Budget Tracker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Nguyen Trung Kien</copyright>
-    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/budgeting/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Getting Started with Budget Tracking</title>
-      <link>//localhost:1313/posts/getting-started/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/getting-started/</guid>
-      <description>&lt;h1 class=&#34;relative group&#34;&gt;Getting Started with Budget Tracking 
-    &lt;div id=&#34;getting-started-with-budget-tracking&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#getting-started-with-budget-tracking&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h1&gt;
-&lt;p&gt;Managing your finances doesn&amp;rsquo;t have to be complicated. Here are some simple steps to get you started.&lt;/p&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;Step 1: Know Your Income 
-    &lt;div id=&#34;step-1-know-your-income&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#step-1-know-your-income&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;p&gt;Start by calculating your total monthly income from all sources.&lt;/p&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;Step 2: List Your Expenses 
-    &lt;div id=&#34;step-2-list-your-expenses&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#step-2-list-your-expenses&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;p&gt;Track your spending for a week to understand your patterns:&lt;/p&gt;</description>
-      
-    </item>
+    <atom:link href="http://192.168.1.8:1313/tags/budgeting/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
